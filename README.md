@@ -21,6 +21,8 @@ This is a simple portfolio website built using HTML and CSS. It showcases name, 
 - Customize the styles in the `styles.css` file to match your preferences.
 
 ## Screenshot
+[Image 1](./starter/images/Screenshot%20(177).png)
+[Image 2](./starter/images/Screenshot%20(178).png)
 
 
 ## Contributing
